@@ -1,0 +1,41 @@
+{
+    "manifest-version": 1,
+    "name": "toshbrown-",
+    "version": "0.1.0",
+    "description": "",
+    "author": "Toshbrown",
+    "licence": "MIT",
+    "databox-type": "app",
+    "tags": "",
+    "homepage": "https://github.com/toshbrown/toshbrown-",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/toshbrown/toshbrown-.git"
+    },
+    "packages": [
+        {
+            "id": "f859833.cd67c8",
+            "name": "new package",
+            "purpose": "",
+            "required": false,
+            "datastores": [
+                "94d60b76.6c9238"
+            ],
+            "benefits": ""
+        }
+    ],
+    "allowed-combinations": [],
+    "datasources": [
+        {
+            "type": "bulb-on",
+            "required": true,
+            "name": "bulbsin",
+            "clientid": "94d60b76.6c9238",
+            "granularities": []
+        }
+    ],
+    "network-permissions": [],
+    "resource-requirements": {},
+    "volumes": [],
+    "export-whitelist": []
+}
