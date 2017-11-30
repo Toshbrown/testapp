@@ -1,0 +1,19 @@
+[
+    {
+        "id": "f859833.cd67c8",
+        "label": "new package",
+        "type": "tab"
+    },
+    {
+        "id": "94d60b76.6c9238",
+        "type": "bulbsin",
+        "z": "f859833.cd67c8",
+        "name": "",
+        "subtype": "bulb-on",
+        "x": 112.5,
+        "y": 202,
+        "wires": [
+            []
+        ]
+    }
+]
